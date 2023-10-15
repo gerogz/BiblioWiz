@@ -1,7 +1,7 @@
 # BiblioWiz
 
 ## Description
-This Chrome extension is designed for individuals who frequently read research papers online, specifically from ACM (Association for Computing Machinery). As users read through the research paper and hover over an in-text citation, a pop-up displays more information about that citation, including details such as the title, author, publication year, and abstract.
+This Chrome extension is designed for people who frequently read research papers online, specifically from ACM (Association for Computing Machinery). As users read through the research paper and hover over an in-text citation, a pop-up displays more information about that citation, including details such as the title, author, publication year, and abstract.
 
 ## Features
 - **Hover-to-View**: Simply hover over an in-text citation to view the corresponding reference details.
