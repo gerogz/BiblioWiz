@@ -12,7 +12,7 @@ This Chrome extension is designed for individuals who frequently read research p
 - **Platform-Specific**: This extension is currently optimized for ACM publications. The structure and layout of citations and references in ACM papers are used to extract and display information. The extension may not work as expected or might need modifications to work with research papers from other publishers.
 
 ## Installation
-1. **Clone this Repository**: Use `git clone [repository-url]` to clone this extension's code to your local machine.
+1. **Clone this Repository**: Use `git clone https://github.com/gerogz/bibliowiz.git` to clone this extension's code to your local machine.
 2. **Load the Extension in Chrome**:
    - Open Google Chrome.
    - Navigate to `chrome://extensions/`.
@@ -27,6 +27,3 @@ This Chrome extension is designed for individuals who frequently read research p
 
 ## Contributing
 If you'd like to contribute or adapt this extension for other platforms, feel free to fork the repository and submit pull requests. Feedback and improvements are always welcome!
-
-## License
-MIT License - see the accompanying LICENSE file for details.
