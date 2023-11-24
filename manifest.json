@@ -10,9 +10,6 @@
         "js": ["content.js"],
         "css": ["styles.css"]
       }
-    ],
-    "background": {
-      "service_worker": "background.js"
-    }
+    ]
   }
   
